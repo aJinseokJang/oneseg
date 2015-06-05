@@ -1,9 +1,1 @@
-1. AAA
-2. BBB
-2.5 BBC
-3. CCC
-4. DDD
-
-777. EEE
-888. XXX
-
+1
